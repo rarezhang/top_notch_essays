@@ -6,11 +6,12 @@
 - in view of .. 
 
 ### performance  
-- the poor performance of existing systems impacts their effectiveness  
-- the performance of ... is inadequate  
+- the factor derived from ... agree well with general ... consensus  
 - ...(new system) significantly outperformed the other approaches  
 
 ### gap  
+- the poor performance of existing systems impacts their effectiveness  
+- the performance of ... is inadequate  
 - there is a need for xxx that utilize ... coupled with improved ... for ...  
 - utilizing (existing system)... is not without its challenges  
 - however, standard ... are not suitable for handling
