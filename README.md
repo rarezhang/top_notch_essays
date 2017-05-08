@@ -10,6 +10,7 @@
 - ...(new system) significantly outperformed the other approaches  
 
 ### gap  
+- xxx is being unduly neglected or ignored in xxx  
 - the poor performance of existing systems impacts their effectiveness  
 - the performance of ... is inadequate  
 - there is a need for xxx that utilize ... coupled with improved ... for ...  
