@@ -1,0 +1,21 @@
+- dichotomy
+noun. a division or contrast between two things that are or are represented as being opposed or entirely different.
+e.g., The dichotomy between these approaches presents a common design decision when choosing an appropriate implementation of a data structure. 
+
+- par·a·digm
+a typical example or pattern of something; a model.
+synonyms:	model, pattern, example, exemplar, template, standard, prototype, archetype
+
+
+- meth·od·ol·o·gy
+a system of methods used in a particular area of study or activity.
+
+
+- frame·work
+an essential supporting structure of a building, vehicle, or object.
+"a conservatory in a delicate framework of iron"
+synonyms:	frame, substructure, infrastructure, structure, skeleton, chassis, shell, body, bodywork
+
+a basic structure underlying a system, concept, or text.
+"the theoretical framework of political sociology"
+synonyms:	structure, shape, fabric, order, scheme, system, organization, construction, configuration, composition, warp and woof; informalmakeup
