@@ -19,3 +19,7 @@ synonyms:	frame, substructure, infrastructure, structure, skeleton, chassis, she
 a basic structure underlying a system, concept, or text.
 "the theoretical framework of political sociology"
 synonyms:	structure, shape, fabric, order, scheme, system, organization, construction, configuration, composition, warp and woof; informalmakeup
+
+
+- theorem VS theory
+A theorem is a result that can be proven to be true from a set of axioms. The term is used especially in mathematics where the axioms are those of mathematical logic and the systems in question. A theory is a set of ideas used to explain why something is true, or a set of rules on which a subject is based on
