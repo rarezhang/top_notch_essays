@@ -5,11 +5,13 @@
 - in light of these concerns, ...  
 - in view of .. 
 
+
 ### performance  
 - the factor derived from ... agree well with general ... consensus  
 - ...(new system) significantly outperformed the other approaches  
 
 ### gap  
+- a sizable literature in .... deals with ....; and our work speaks to ....  
 - xxx is being unduly neglected or ignored in xxx  
 - the poor performance of existing systems impacts their effectiveness  
 - the performance of ... is inadequate  
