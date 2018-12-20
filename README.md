@@ -87,3 +87,12 @@ such complexities
 
 ### to limit the scope  
 - we limit our discussion to two categories of the latter  
+
+
+
+### limitations  
+- our analyses leave open a number of future questions ...  
+
+
+## acknowledgements  
+The authors thank the senior editor xxx, the associate editor xxx, and the three anonymous reviewers for a constructive and developmental review process.  Authors also thank participants at the Conference on Information Systems and Technology (CIST 201x) and International Conference on Information Systems (ICIS 201x) for valuable feedback.  
