@@ -74,6 +74,7 @@ such complexities
 - significantly  
 - notably  
 - importantly  
+- which is truly extraordinary  
 
 ### summarize  
 - in conclusion  
@@ -81,6 +82,8 @@ such complexities
 - persuasive == compelling
     + e.g., the most compelling argument is presented by ...  
 - all things considered  
+- As I alluded to earlier,  ...  
+
 
 ### categories  
 - ... fall into xx groups  
@@ -95,4 +98,6 @@ such complexities
 
 
 ## acknowledgements  
-The authors thank the senior editor xxx, the associate editor xxx, and the three anonymous reviewers for a constructive and developmental review process.  Authors also thank participants at the Conference on Information Systems and Technology (CIST 201x) and International Conference on Information Systems (ICIS 201x) for valuable feedback.  
+The authors thank the senior editor xxx, the associate editor xxx, and the three anonymous reviewers for a constructive and developmental review process. Authors also thank participants at the Conference on Information Systems and Technology (CIST 201x) and International Conference on Information Systems (ICIS 201x) for valuable feedback. 
+
+We would like to thank you for assembling such a high-caliber review team and for offering us the opportunity to revise this manuscript.  
