@@ -97,7 +97,13 @@ such complexities
 - our analyses leave open a number of future questions ...  
 
 
-## acknowledgements  
+## acknowledgment  
 The authors thank the senior editor xxx, the associate editor xxx, and the three anonymous reviewers for a constructive and developmental review process. Authors also thank participants at the Conference on Information Systems and Technology (CIST 201x) and International Conference on Information Systems (ICIS 201x) for valuable feedback. 
 
-We would like to thank you for assembling such a high-caliber review team and for offering us the opportunity to revise this manuscript.  
+
+
+
+## response to reviewers  
+- we would like to thank you for assembling such a high-caliber review team and for offering us the opportunity to revise this manuscript.  
+We hope you find that our diligent revision efforts to this ... has made it more rigorous and has greatly strengthened the contributions to ... and ... in general.  
+- we would like to thank you again for putting up a high-quality review panel and for your insightful comments  
