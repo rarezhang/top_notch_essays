@@ -23,7 +23,8 @@ such complexities
 - although prior research has identified ..., a school of thought maintains that ...  
 - there is a limited body of research on how to mitigate ...  
 - in recognition of this complexity, the ... required  
-- Given the need for xxx analysis and a lack of systems that  address  this  need,  an  important  and  obvious  question arises.
+- Given the need for xxx analysis and a lack of systems that  address  this  need,  an  important  and  obvious  question arises.  
+- In this situation, both xxx and xxx fall short of what xxxx need.   
 
 ### implications
 - given the hefty cost exacted by ..., the results have important implications for ...  
