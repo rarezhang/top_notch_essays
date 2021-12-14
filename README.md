@@ -77,6 +77,11 @@ such complexities
 - importantly  
 - which is truly extraordinary  
 
+### we believe 
+- To the extent of our knowledge ...  
+- To the best of our knowledge ...  
+- As far as we know ...  
+
 ### summarize  
 - in conclusion  
 - above all  
