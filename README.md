@@ -9,6 +9,7 @@
 ### performance  
 - the factor derived from ... agree well with general ... consensus  
 - ...(new system) significantly outperformed the other approaches  
+- xxx has facilities for reliably converting from ____ to ___  
 
 ### gap  
 - a sizable literature in .... deals with ....; and our work speaks to ....  
